@@ -1,0 +1,49 @@
+.Navigation {
+    text-align: center;
+    font-size: large;
+    display: inline;
+}
+
+.F1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: x-large;
+}
+
+.F2 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: x-large;
+}
+
+.F3 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    font-size: x-large;
+}
+
+.ENGLISH4 {
+    font-family: 'Dancing Script', cursive;
+    font-size: x-large;
+}
+
+.boxOne {
+    height: 120px;
+    width: 120px;
+    background-color: blue;
+    display: inline-block;
+}
+
+.boxTwo {
+    height: 120px;
+    width: 120px;
+    background-color: rgb(1, 145, 133);
+    display: inline-block;
+}
+
+.boxThree {
+    height: 120px;
+    width: 120px;
+    background-color: rgb(0, 148, 67);
+    display: inline-block;
+}
